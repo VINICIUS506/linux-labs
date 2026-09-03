@@ -16,8 +16,8 @@ A structured portfolio documenting practical hands-on experience in Linux system
 ## 📁 Completed Labs Index
 | Lab | Name | Description | Status |
 | :--- | :--- | :--- | :---: |
-| **01** | [Installation & First Boot](./01-installation-and-first-boot) | OS deployment, disk partition confirmation, and initial GDM session. | ✅ Completed |
-| **02** | [Post-Installation & Specs](./02-post-installation-setup) | System upgrades, display integration drivers, hardware specs audit, and network connectivity checks. | ✅ Completed |
+| **01** | [Installation & First Boot](./labs/01-installation-and-first-boot) | OS deployment, disk partition confirmation, and initial GDM session. | ✅ Completed |
+| **02** | [Post-Installation & Specs](./labs/02-post-installation-setup) | System upgrades, display integration drivers, hardware specs audit, and network connectivity checks. | ✅ Completed |
 
 ---
 ## 🛠️ Core Skills & Tools Applied
