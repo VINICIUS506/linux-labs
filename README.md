@@ -18,6 +18,7 @@ A structured portfolio documenting practical hands-on experience in Linux system
 | :--- | :--- | :--- | :---: |
 | **01** | [Installation & First Boot](./labs/01-installation-and-first-boot.md) | OS deployment, disk partition confirmation, and initial GDM session. | ✅ Completed |
 | **02** | [Post-Installation & Specs](./labs/02-post-installation-setup.md) | System upgrades, display integration drivers, hardware specs audit, and network connectivity checks. | ✅ Completed |
+| **03** | [User & Group Management, Shared Directories, and Sudo Privileges](./labs/03-user-group-permission-mngmt.md) | Configured group-based access control, set up a shared directory with SGID, and implemented role-based sudo privileges. | ✅ Completed |
 
 ---
 ## 🛠️ Core Skills & Tools Applied
